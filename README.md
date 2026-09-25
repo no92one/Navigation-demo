@@ -1,6 +1,3 @@
-Absolut. Jag hade hållit README:n väldigt kort och riktad till studenterna:
-
-```markdown
 # Restaurant Demo
 
 Ett enkelt React Native-projekt byggt med **Expo** och **React Navigation**.
